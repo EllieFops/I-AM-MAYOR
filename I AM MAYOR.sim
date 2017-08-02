@@ -1,0 +1,6 @@
+Begin
+  While "I AM MAYOR" = "I AM MAYOR" Do Begin
+    OutText ("I AM MAYOR");
+    Outimage;
+  End;
+End;
