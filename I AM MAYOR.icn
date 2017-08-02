@@ -1,3 +1,4 @@
 procedure main()
-   while write ( "I AM MAYOR" );
+   while "I AM MAYOR" do
+     write ( "I AM MAYOR" );
 end
