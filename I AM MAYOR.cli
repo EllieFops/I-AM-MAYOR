@@ -1,0 +1,1 @@
+(while (stringp "I AM MAYOR") (printout t "I AM MAYOR" crlf))
