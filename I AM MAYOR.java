@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class Mayor{
   public static void main(String []args){
     boolean I_AM_MAYOR = true;
     while(I_AM_MAYOR)
